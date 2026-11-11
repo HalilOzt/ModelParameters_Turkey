@@ -2,6 +2,7 @@
 
 [![Canlı site](https://img.shields.io/badge/canlı%20site-GitHub%20Pages-23665f)](https://halilozt.github.io/ModelParameters_Turkey/)
 [![GitHub Pages](https://github.com/HalilOzt/ModelParameters_Turkey/actions/workflows/deploy-pages.yml/badge.svg)](https://github.com/HalilOzt/ModelParameters_Turkey/actions/workflows/deploy-pages.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-2f6f65.svg)](LICENSE)
 
 Türkiye ekonomisine ilişkin model parametrelerini tek bir karşılaştırılabilir katalogda toplayan açık araştırma projesi. Uygulama; tahminleri, kalibrasyonları ve betimsel istatistikleri kaynak, yöntem, dönem, sektör ve tanım farklarını koruyarak keşfetmeyi sağlar.
 
@@ -64,3 +65,7 @@ Bir değeri sitede göstermeden önce `estimate_status`, `unit`, `definition_var
 ## Kaynak dosyaları hakkında
 
 İndirilen makale PDF'leri ve tam metin çıktıları, dosya boyutu ve yeniden dağıtım hakları nedeniyle herkese açık GitHub deposuna eklenmez. Yerel arşivin bütünlük özetleri `sources/pdfs/SHA256SUMS.txt` dosyasında tutulur; türetilen katalog, raporlar, kod ve indirilebilir veri tabloları depoda yer alır.
+
+## Lisans
+
+Bu depo [MIT Lisansı](LICENSE) ile sunulur. Kaynak makaleler ve yayıncılara ait üçüncü taraf eserler bu lisansın kapsamında değildir.
