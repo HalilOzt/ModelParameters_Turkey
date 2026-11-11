@@ -1,0 +1,15 @@
+# Local and generated working files
+.tmp/
+.openai/
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db
+
+# Downloaded publications are kept locally for verification, but are not
+# redistributed in the public repository. Keep only their integrity manifest.
+sources/pdfs/*
+!sources/pdfs/SHA256SUMS.txt
+sources/originals/
+sources/extracted/
+
