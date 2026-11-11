@@ -1,11 +1,11 @@
 # Türkiye Ekonomisi Model Parametreleri
 
-[![Canlı site](https://img.shields.io/badge/canlı%20site-GitHub%20Pages-23665f)](https://halilozt.github.io/turkiye-ekonomisi-model-parametreleri/)
-[![GitHub Pages](https://github.com/HalilOzt/turkiye-ekonomisi-model-parametreleri/actions/workflows/deploy-pages.yml/badge.svg)](https://github.com/HalilOzt/turkiye-ekonomisi-model-parametreleri/actions/workflows/deploy-pages.yml)
+[![Canlı site](https://img.shields.io/badge/canlı%20site-GitHub%20Pages-23665f)](https://halilozt.github.io/ModelParameters_Turkey/)
+[![GitHub Pages](https://github.com/HalilOzt/ModelParameters_Turkey/actions/workflows/deploy-pages.yml/badge.svg)](https://github.com/HalilOzt/ModelParameters_Turkey/actions/workflows/deploy-pages.yml)
 
 Türkiye ekonomisine ilişkin model parametrelerini tek bir karşılaştırılabilir katalogda toplayan açık araştırma projesi. Uygulama; tahminleri, kalibrasyonları ve betimsel istatistikleri kaynak, yöntem, dönem, sektör ve tanım farklarını koruyarak keşfetmeyi sağlar.
 
-**Canlı uygulama:** [halilozt.github.io/turkiye-ekonomisi-model-parametreleri](https://halilozt.github.io/turkiye-ekonomisi-model-parametreleri/)
+**Canlı uygulama:** [halilozt.github.io/ModelParameters_Turkey](https://halilozt.github.io/ModelParameters_Turkey/)
 
 ## Proje özeti
 
