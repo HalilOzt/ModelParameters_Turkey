@@ -12,28 +12,32 @@
     <meta property="og:url" content="https://halilozt.github.io/ModelParameters_Turkey/" />
     <meta name="twitter:card" content="summary" />
     <link rel="canonical" href="https://halilozt.github.io/ModelParameters_Turkey/" />
+    <link rel="alternate" hreflang="tr" href="https://halilozt.github.io/ModelParameters_Turkey/" />
+    <link rel="alternate" hreflang="en" href="https://halilozt.github.io/ModelParameters_Turkey/?lang=en" />
+    <link rel="alternate" hreflang="x-default" href="https://halilozt.github.io/ModelParameters_Turkey/" />
     <title>Türkiye Ekonomisi Model Parametreleri</title>
     <link rel="icon" href="./favicon.svg" type="image/svg+xml" />
-    <link rel="stylesheet" href="./styles.css" />
+    <link rel="stylesheet" href="./styles.css?v=20261111-en" />
   </head>
   <body>
-    <a class="skip-link" href="#main">İçeriğe geç</a>
+    <a class="skip-link" id="skip-link" href="#main">İçeriğe geç</a>
     <header class="site-header">
       <div class="shell header-inner">
-        <a class="brand" href="#home" aria-label="Ana sayfa">
+        <a class="brand" id="brand-link" href="#home" aria-label="Ana sayfa">
           <span class="brand-mark" aria-hidden="true">β</span>
           <span class="brand-copy">
-            <strong>Türkiye Ekonomisi</strong>
-            <small>Model Parametreleri</small>
+            <strong id="brand-title">Türkiye Ekonomisi</strong>
+            <small id="brand-subtitle">Model Parametreleri</small>
           </span>
         </a>
-        <button class="menu-button" type="button" aria-expanded="false" aria-controls="site-nav">Menü</button>
+        <button class="menu-button" id="menu-button" type="button" aria-expanded="false" aria-controls="site-nav">Menü</button>
         <nav id="site-nav" class="site-nav" aria-label="Ana menü">
-          <a href="#parameters" data-nav="parameters">Parametreler</a>
-          <a href="#sources" data-nav="sources">Kaynaklar</a>
-          <a href="#about" data-nav="about">Yöntem</a>
-          <a href="#downloads" data-nav="downloads">Veri</a>
+          <a id="nav-parameters" href="#parameters" data-nav="parameters">Parametreler</a>
+          <a id="nav-sources" href="#sources" data-nav="sources">Kaynaklar</a>
+          <a id="nav-about" href="#about" data-nav="about">Yöntem</a>
+          <a id="nav-downloads" href="#downloads" data-nav="downloads">Veri</a>
           <a href="https://github.com/HalilOzt/ModelParameters_Turkey" target="_blank" rel="noreferrer">GitHub</a>
+          <button class="language-switch" id="language-switch" type="button" aria-label="View site in English">EN</button>
         </nav>
       </div>
     </header>
@@ -43,7 +47,7 @@
         <section class="loading shell">
           <div class="loading-line"></div>
           <div class="loading-line short"></div>
-          <p>Veri kataloğu hazırlanıyor…</p>
+          <p id="loading-text">Veri kataloğu hazırlanıyor…</p>
         </section>
       </div>
     </main>
@@ -51,15 +55,15 @@
     <footer class="site-footer">
       <div class="shell footer-inner">
         <div>
-          <strong>Türkiye Ekonomisi Model Parametreleri</strong>
-          <p>Kaynak, yöntem ve tanım farklılıklarını görünür kılan açık araştırma kataloğu.</p>
-          <p><a class="footer-link" href="https://github.com/HalilOzt/ModelParameters_Turkey" target="_blank" rel="noreferrer">Kaynak kodu GitHub'da inceleyin ↗</a></p>
+          <strong id="footer-title">Türkiye Ekonomisi Model Parametreleri</strong>
+          <p id="footer-description">Kaynak, yöntem ve tanım farklılıklarını görünür kılan açık araştırma kataloğu.</p>
+          <p><a class="footer-link" id="footer-source-link" href="https://github.com/HalilOzt/ModelParameters_Turkey" target="_blank" rel="noreferrer">Kaynak kodu GitHub'da inceleyin ↗</a></p>
         </div>
-        <p class="footer-meta">Son veri üretimi: <span id="generated-date">—</span></p>
+        <p class="footer-meta"><span id="generated-label">Son veri üretimi:</span> <span id="generated-date">—</span></p>
       </div>
     </footer>
 
-    <script src="./app.js" defer></script>
+    <script src="./app.js?v=20261111-en" defer></script>
   </body>
 </html>
 

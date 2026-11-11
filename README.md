@@ -8,6 +8,8 @@ Türkiye ekonomisine ilişkin model parametrelerini tek bir karşılaştırılab
 
 **Canlı uygulama:** [halilozt.github.io/ModelParameters_Turkey](https://halilozt.github.io/ModelParameters_Turkey/)
 
+**English interface:** [halilozt.github.io/ModelParameters_Turkey/?lang=en](https://halilozt.github.io/ModelParameters_Turkey/?lang=en)
+
 ## Proje özeti
 
 - 131 kaynak kaydı
